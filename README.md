@@ -1,6 +1,6 @@
 ## StarWars-ReactRouting
 
-Using Star Wars API explorer app, 
+Using Star Wars API explorer app, and dynamicaly Routing with active stlye.
 
 ## ScreenShot
 
